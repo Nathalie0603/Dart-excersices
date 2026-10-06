@@ -1,0 +1,8 @@
+=== Mobile Load Checkout ===
+Customer: Nathalie Nicole Napoles
+Data Package: 10 GB
+Subtotal: PHP 355.0
+Final Total (after discount): PHP 319.5
+Validity: 4 weeks and 2 days
+Qualifies for Free Perks? true
+Regular customer? false
