@@ -1,13 +1,13 @@
-# Dart Exercises
+# Dart Fundamentals Exercise: Mobile Load Checkout
 
-Name: Nathalie Nicole Napoles
+**Student Name:** Nathalie Nicole Napoles  
+**Course/Section:** PC16 - Mobile Development w/ Lab  
 
-Section: BSIT 3.2
+## Scenario Description
+This Dart program simulates a mobile load purchase checkout that calculates data package costs, applies discounts, determines validity duration using integer arithmetic, and checks perk eligibility using comparison operators[cite: 1, 2, 3].
 
-## Description
+## How to Run the Program
+Ensure you have the Dart SDK installed, then run the following command in your terminal[cite: 1, 3]:
 
-This program demonstrates Dart variables, data types, arithmetic operators, comparison operators, and console output using a simple data usage and internet pricing scenario.
-
-## How to Run
-
+```bash
 dart run
